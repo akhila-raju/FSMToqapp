@@ -102,7 +102,7 @@ public class ToqActivity extends Activity {
                 double longitude = location.getLongitude();
                 float[] results = new float[1];
                 Location.distanceBetween(37.86965, -122.25914, latitude, longitude, results); //finds distance and saves at results[0]
-                if (results[0] > 50.0 && !sentNotification) { //not working
+                if (results[0] < 50.0 && !sentNotification) { //within 50 m of Sproul Plaza
                     sendNotification();
                     sentNotification=true;
                 }
