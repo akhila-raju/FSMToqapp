@@ -2,22 +2,22 @@
 <pre-dex-items>
 
     <item
-        dex="/Users/akhilaraju/Documents/CS 160/Projects/FSM/SectionToqActivity/app/build/intermediates/pre-dexed/debug/android-toq-api-1.5.2-28fcc90b9baf183b0183a3742403e365f226ab22.jar"
-        jar="/Users/akhilaraju/Documents/CS 160/Projects/FSM/SectionToqActivity/app/libs/android-toq-api-1.5.2.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="33b06af4f6ee27952eee84fe82ed15d8f603d4b7"/>
-    <item
-        dex="/Users/akhilaraju/Documents/CS 160/Projects/FSM/SectionToqActivity/app/build/intermediates/pre-dexed/debug/flickrj-a82608c10d27172e2b3f3dd599e252f65ef90247.jar"
-        jar="/Users/akhilaraju/Documents/CS 160/Projects/FSM/SectionToqActivity/app/libs/flickrj.jar"
+        dex="/Users/akhilaraju/Documents/CS160/Projects/FSM/SectionToqActivity/app/build/intermediates/pre-dexed/release/flickrj-26dd47430b362f208b4e03658d8e396aba1c682b.jar"
+        jar="/Users/akhilaraju/Documents/CS160/Projects/FSM/SectionToqActivity/app/libs/flickrj.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="08ff4a341260f9f438456d990396589d51a61e36"/>
     <item
-        dex="/Users/akhilaraju/Documents/CS 160/Projects/FSM/SectionToqActivity/app/build/intermediates/pre-dexed/debug/slf4j-93323f3318fad363cc4880749e04d90dce4c5db9.jar"
-        jar="/Users/akhilaraju/Documents/CS 160/Projects/FSM/SectionToqActivity/app/libs/slf4j.jar"
+        dex="/Users/akhilaraju/Documents/CS160/Projects/FSM/SectionToqActivity/app/build/intermediates/pre-dexed/release/slf4j-c37cfeedba182e135d2d96d6311ae653ea34f547.jar"
+        jar="/Users/akhilaraju/Documents/CS160/Projects/FSM/SectionToqActivity/app/libs/slf4j.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1"/>
+    <item
+        dex="/Users/akhilaraju/Documents/CS160/Projects/FSM/SectionToqActivity/app/build/intermediates/pre-dexed/release/android-toq-api-1.5.2-3aa18ea29b531488979fb22904cc99b32b54b2f0.jar"
+        jar="/Users/akhilaraju/Documents/CS160/Projects/FSM/SectionToqActivity/app/libs/android-toq-api-1.5.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="33b06af4f6ee27952eee84fe82ed15d8f603d4b7"/>
 
 </pre-dex-items>
